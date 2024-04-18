@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@slack/bolt": "^2.7.0",
+    "dotenv": "^8.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fuga",
+  "license": "ISC",
+  "description": "hoge",
+  "keywords": [
+    "hoge"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SphereStacking/slack-app-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SphereStacking/slack-app-template/issues"
+  },
+  "homepage": "https://github.com/SphereStacking/slack-app-template#readme"
+}

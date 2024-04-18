@@ -1,0 +1,7 @@
+version: "2"
+authtoken: ngrokでコピーしたトークン
+tunnels:
+  default:
+    proto: http
+    addr: app:3000
+    hostname: ngrokで作成したドメイン
