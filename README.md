@@ -42,7 +42,7 @@ docker-compose run app npm install
    1. 控えた値をenvに書き込む
       1. 2-1 SLACK_BOT_TOKEN
       2. 2-3 SLACK_SIGNING_SECRET
-      3. 5-3 NGROK_AUTH_TOKEN
+   2. 控えた値をngrok.ymlに書き込む 
 
 ### ngrokのセットアップ
 
